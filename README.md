@@ -1,8 +1,8 @@
 
-#Pandas Series and DataFrame Basics
+Pandas Series and DataFrame Basics
 This Jupyter notebook demonstrates fundamental pandas operations for data manipulation.
 
-#Overview
+Overview
 The notebook covers:
 
 Creating pandas Series from lists and dictionaries
